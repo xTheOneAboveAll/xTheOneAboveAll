@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xTheOneAboveAll
+- 👋 Hi, I’m xTheOneAboveAll
 - 👀 I’m interested in python coding & bug hunting
 - 🌱 I’m currently learning exploits & c#
 - You can reach me via telegram @xTheOneAboveAll
